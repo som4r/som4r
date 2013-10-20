@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.20">
+	<name>Controle do Veículo</name>
+	<author>Marcus Veloso</author>
+	<creationDate>Outubro 2010</creationDate>
+	<version>1.0.0</version>
+	<description>Módulo para comando remoto do veículo robótico. Se comunica (via Ajax) com o servico web responsável pelo controle dos motores na porta USB.</description>
+	<files>
+		<filename module="mod_veiculo">mod_veiculo.php</filename>
+	</files>
+<!--
+	<params>
+		<param name="velocidade" type="text" default="0" label="Velocidade Atual"  description="Velocidade atual do veículo." />
+		<param name="direcao" type="text" default="5" label="Direcao Atual"  description="Direcao atual do veículo." />
+	</params>
+-->
+</install>
+

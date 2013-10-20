@@ -1,0 +1,85 @@
+Language model created by QuickLM on Sat Dec 31 19:36:22 EST 2011
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 15 sentences and 17 words
+
+\data\
+ngram 1=17
+ngram 2=30
+ngram 3=15
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-1.9542 AHEA -0.2218
+-1.9542 AHEAD -0.2218
+-1.9542 BACK -0.2218
+-1.9542 BOO -0.2218
+-1.9542 COMMAND -0.2218
+-1.9542 FASTER -0.2218
+-1.9542 LEFT -0.2218
+-1.9542 NO -0.2218
+-1.9542 OK -0.2218
+-1.9542 RIGHT -0.2218
+-1.9542 ROBOT -0.2218
+-1.9542 SLOWER -0.2218
+-1.9542 STOP -0.2218
+-1.9542 VOICE -0.2218
+-1.9542 YES -0.2218
+
+\2-grams:
+-1.4771 <s> AHEA 0.0000
+-1.4771 <s> AHEAD 0.0000
+-1.4771 <s> BACK 0.0000
+-1.4771 <s> BOO 0.0000
+-1.4771 <s> COMMAND 0.0000
+-1.4771 <s> FASTER 0.0000
+-1.4771 <s> LEFT 0.0000
+-1.4771 <s> NO 0.0000
+-1.4771 <s> OK 0.0000
+-1.4771 <s> RIGHT 0.0000
+-1.4771 <s> ROBOT 0.0000
+-1.4771 <s> SLOWER 0.0000
+-1.4771 <s> STOP 0.0000
+-1.4771 <s> VOICE 0.0000
+-1.4771 <s> YES 0.0000
+-0.3010 AHEA </s> -0.3010
+-0.3010 AHEAD </s> -0.3010
+-0.3010 BACK </s> -0.3010
+-0.3010 BOO </s> -0.3010
+-0.3010 COMMAND </s> -0.3010
+-0.3010 FASTER </s> -0.3010
+-0.3010 LEFT </s> -0.3010
+-0.3010 NO </s> -0.3010
+-0.3010 OK </s> -0.3010
+-0.3010 RIGHT </s> -0.3010
+-0.3010 ROBOT </s> -0.3010
+-0.3010 SLOWER </s> -0.3010
+-0.3010 STOP </s> -0.3010
+-0.3010 VOICE </s> -0.3010
+-0.3010 YES </s> -0.3010
+
+\3-grams:
+-0.3010 <s> AHEA </s>
+-0.3010 <s> AHEAD </s>
+-0.3010 <s> BACK </s>
+-0.3010 <s> BOO </s>
+-0.3010 <s> COMMAND </s>
+-0.3010 <s> FASTER </s>
+-0.3010 <s> LEFT </s>
+-0.3010 <s> NO </s>
+-0.3010 <s> OK </s>
+-0.3010 <s> RIGHT </s>
+-0.3010 <s> ROBOT </s>
+-0.3010 <s> SLOWER </s>
+-0.3010 <s> STOP </s>
+-0.3010 <s> VOICE </s>
+-0.3010 <s> YES </s>
+
+\end\

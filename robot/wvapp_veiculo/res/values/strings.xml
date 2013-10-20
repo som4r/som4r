@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="intro">11111  Demonstrates an embedded WebView and two-way communication between the HTML document and the hosting activity.</string>
+    <string name="app_name">Robot WV Veiculo</string>
+    <string name="ip_robot">192.168.20.101</string>
+    <string name="connect">Conectar</string>
+    <string name="buttonHandler">myClickHandler</string>
+</resources>

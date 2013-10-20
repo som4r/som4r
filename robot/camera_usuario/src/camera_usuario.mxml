@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- http://blog.flexexamples.com/2008/01/22/displaying-a-webcams-video-in-a-flex-videodisplay-control/ -->
+<mx:Application name="VideoDisplay_attachCamera_test"
+				xmlns:mx="http://www.adobe.com/2006/mxml"
+				layout="vertical"
+				verticalAlign="middle"
+				backgroundColor="white">
+	
+	<mx:Script>
+		<![CDATA[
+		import mx.controls.Alert;
+		
+		private function videoDisplay_creationComplete():void {
+			var camera:Camera = Camera.getCamera();
+			if (camera) {
+				videoDisplay.attachCamera(camera);
+			} else {
+				Alert.show("You don't seem to have a camera.");
+			}
+		}
+		]]>
+	</mx:Script>
+	
+	<mx:VideoDisplay id="videoDisplay"
+					 creationComplete="videoDisplay_creationComplete();"
+					 width="200"
+					 height="150" />
+	
+</mx:Application>

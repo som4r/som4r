@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.20">
+	<name>Comando de Voz</name>
+	<author>Marcus Veloso</author>
+	<creationDate>Novembro 2010</creationDate>
+	<version>1.0.0</version>
+	<description>Módulo para controle do veículo robótico usando comando de voz. Permite movimentar o robô através da comandos verbais. É cliente dos webservices Ouvido e Veiculo.</description>
+	<files>
+		<filename module="mod_comandovoz">mod_comandovoz.php</filename>
+	</files>
+
+</install>
+

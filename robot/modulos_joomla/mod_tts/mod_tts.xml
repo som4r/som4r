@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.20">
+	<name>TTS</name>
+	<author>Marcus Veloso</author>
+	<creationDate>Novembro 2010</creationDate>
+	<version>1.0.0</version>
+	<description>Módulo para pronunciar um texto usando o sintetizador de voz do robô. É cliente do webservice TTS.</description>
+	<files>
+		<filename module="mod_tts">mod_tts.php</filename>
+	</files>
+
+</install>
+

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="module" version="1.5.20">
+	<name>GPS - Google Map</name>
+	<author>Marcus Veloso</author>
+	<creationDate>Outubro 2010</creationDate>
+	<version>1.0.0</version>
+	<description>Módulo para mostrar a posicão do robô em tempo real. Usa o GPS integrado ao robô e a API do Google Maps.</description>
+	<files>
+		<filename module="mod_googlemapv3js">mod_googlemapv3js.php</filename>
+	</files>
+
+</install>
+
