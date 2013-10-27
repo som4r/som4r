@@ -1,0 +1,1 @@
+This service is DEPRECATED. Use WSREST_LISTEN instead.
