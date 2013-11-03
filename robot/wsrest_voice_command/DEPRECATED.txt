@@ -1,1 +1,0 @@
-This service is DEPRECATED. Use AGENT_VOICE_COMMAND instead.
