@@ -48,7 +48,7 @@ nohup wget http://localhost:8090 > $HOME/robot_/logs/wget.log 2>&1 &
 sleep 10
 
 
-# Carregando "agentes"
+# Carregando aplicativos
 
 # Runaway
 #cd $HOME/NetBeansProjects/agent_runaway/src/runaway/
