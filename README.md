@@ -5,3 +5,5 @@ A middleware that shares resources (sensors, actuators and services) of one or m
 
 Video:
 https://www.youtube.com/watch?v=G2iMuNAkWkE
+
+PS: Exported from Google Code (https://code.google.com/p/som4r). ToDo: Export  Wiki Pages.
