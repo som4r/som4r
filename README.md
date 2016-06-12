@@ -13,4 +13,3 @@ In order to evaluate the performance of the proposed middleware, SOM4R, we prese
  * [Video 4](https://www.youtube.com/watch?v=InUTArXFyMc)
  * [Video 5](https://www.youtube.com/watch?v=CSv3zVnXd0k)
 
-PS: This project was exported from Google Code (https://code.google.com/p/som4r). ToDo: Export  [Wiki Pages](https://code.google.com/p/som4r/w/list).
