@@ -4,7 +4,7 @@ The wheeled robot shown on these videos was designed and built along the develop
 
 ## Videos ##
 
-<a href='https://www.youtube.com/watch?feature=player_embedded&v=bSoOqbzGmYQ' target='_blank'><img src='http://img.youtube.com/vi/G2iMuNAkWkE/0.jpg' width='425' height=344 /></a>
+<a href='https://www.youtube.com/watch?feature=player_embedded&v=bSoOqbzGmYQ' target='_blank'><img src='http://img.youtube.com/vi/bSoOqbzGmYQ/0.jpg' width='425' height=344 /></a>
 
 <a href='http://www.youtube.com/watch?feature=player_embedded&v=G2iMuNAkWkE' target='_blank'><img src='http://img.youtube.com/vi/G2iMuNAkWkE/0.jpg' width='425' height=344 /></a>
 
