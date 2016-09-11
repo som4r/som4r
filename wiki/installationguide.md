@@ -8,7 +8,7 @@ This document contains a list of prerequisites and web services required to run 
   * [Speech Recognition Libraries and Text To Speech - CMU Sphinx, eSpeak](https://github.com/som4r/som4r/blob/master/wiki/installespeaksphinx.md)
   * [Libraries for MS-Kinect Sensor - OpenKinect](https://github.com/som4r/som4r/blob/master/wiki/installopenkinect.md)
   * [Content Management System - Joomla](https://github.com/som4r/som4r/blob/master/wiki/installjoomla.md)
-  * [Python Libraries - WebPy, PyUSB](hhttps://github.com/som4r/som4r/blob/master/wiki/installpythonlibraries.md)
+  * [Python Libraries - WebPy, PyUSB](https://github.com/som4r/som4r/blob/master/wiki/installpythonlibraries.md)
   * [Face Detection Libraries - OpenCV](https://github.com/som4r/som4r/blob/master/wiki/installopencv.md)
   * [Augmented Reality Libraries - ARToolKit, Gstreamer](https://github.com/som4r/som4r/blob/master/wiki/installartoolkit.md)
   * [Media Server and Video Streaming  - Red5, FFmpeg, Xuggler](https://github.com/som4r/som4r/blob/master/wiki/installred5ffmpeg.md)
