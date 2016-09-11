@@ -1,6 +1,6 @@
 # Installation Guide #
 
-This document contains a list of prerequisites and web services required to run the SOM4R Middleware. Each link has detailed instructions on how to install the libraries and others prerequisites.
+This document contains a list of prerequisites and web services required to run the SOM4R Middleware. Each link has detailed instructions on how to install the libraries and others prerequisites. See also [Videos](https://github.com/som4r/som4r/blob/master/wiki/videos.md) and [FAQ](https://github.com/som4r/som4r/blob/master/wiki/faq.md).
 
 ## Installing Prerequisites ##
 
