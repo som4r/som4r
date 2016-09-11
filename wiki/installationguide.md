@@ -4,14 +4,14 @@ This document contains a list of prerequisites and web services required to run 
 
 ## Installing Prerequisites ##
 
-  * [WEB Server and DBMS - Apache HTTPD, Php, Mysql, PhpMyAdmin](https://code.google.com/p/som4r/wiki/installapachephpmysql)
-  * [Speech Recognition Libraries and Text To Speech - CMU Sphinx, eSpeak](https://code.google.com/p/som4r/wiki/installespeaksphinx)
-  * [Libraries for MS-Kinect Sensor - OpenKinect](https://code.google.com/p/som4r/wiki/installopenkinect)
-  * [Content Management System - Joomla](https://code.google.com/p/som4r/wiki/installjoomla)
-  * [Python Libraries - WebPy, PyUSB](https://code.google.com/p/som4r/wiki/installpythonlibraries)
-  * [Face Detection Libraries - OpenCV](https://code.google.com/p/som4r/wiki/installopencv)
-  * [Augmented Reality Libraries - ARToolKit, Gstreamer](https://code.google.com/p/som4r/wiki/installartoolkit)
-  * [Media Server and Video Streaming  - Red5, FFmpeg, Xuggler](https://code.google.com/p/som4r/wiki/installred5ffmpeg)
+  * [WEB Server and DBMS - Apache HTTPD, Php, Mysql, PhpMyAdmin](https://github.com/som4r/som4r/blob/master/wiki/installapachephpmysql.md)
+  * [Speech Recognition Libraries and Text To Speech - CMU Sphinx, eSpeak](https://github.com/som4r/som4r/blob/master/wiki/installespeaksphinx.md)
+  * [Libraries for MS-Kinect Sensor - OpenKinect](https://github.com/som4r/som4r/blob/master/wiki/installopenkinect.md)
+  * [Content Management System - Joomla](https://github.com/som4r/som4r/blob/master/wiki/installjoomla.md)
+  * [Python Libraries - WebPy, PyUSB](hhttps://github.com/som4r/som4r/blob/master/wiki/installpythonlibraries.md)
+  * [Face Detection Libraries - OpenCV](https://github.com/som4r/som4r/blob/master/wiki/installopencv.md)
+  * [Augmented Reality Libraries - ARToolKit, Gstreamer](https://github.com/som4r/som4r/blob/master/wiki/installartoolkit.md)
+  * [Media Server and Video Streaming  - Red5, FFmpeg, Xuggler](https://github.com/som4r/som4r/blob/master/wiki/installred5ffmpeg.md)
 
 ## Installing SOM4R Web Services ##
 
