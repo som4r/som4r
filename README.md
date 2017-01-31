@@ -1,7 +1,7 @@
 # som4r
 ### Simple and Open Middleware for Robotics
 
-A middleware that shares resources (sensors, actuators and services) of one or more robots through the TCP/IP network, providing greater efficiency in the development of software applications for robotics. This middleware provides greater efficiency in the development of software applications for robotics, hardware abstraction, communication reliability, scalability, security, the ability to integrate system actuators and sensors, and easily incorporate several widely used open-source libraries for specific tasks or sensors, like OpenCV, ARToolKit, OpenKinect, eSpeak, CMU Sphinx and PyFaces, all of them used in this project.
+A middleware that shares resources (sensors, actuators and services) of one or more robots through the TCP/IP network. This middleware provides greater efficiency in the development of software applications for robotics, including hardware abstraction, communication reliability, scalability, security, the ability to integrate system actuators and sensors, and easily incorporate several widely used open-source libraries for specific tasks or sensors, like OpenCV, ARToolKit, OpenKinect, eSpeak, CMU Sphinx and PyFaces, all of them used in this project.
 
 Preliminary experiments:
 
