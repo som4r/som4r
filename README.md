@@ -3,7 +3,11 @@
 
 A middleware that shares resources (sensors, actuators and services) of one or more robots through the TCP/IP network. This middleware provides greater efficiency in the development of software applications for robotics, including hardware abstraction, communication reliability, scalability, security, the ability to integrate system actuators and sensors, and easily incorporate several widely used open-source libraries for specific tasks or sensors, like OpenCV, ARToolKit, OpenKinect, eSpeak, CMU Sphinx and PyFaces, all of them used in this project.
 
-Preliminary experiments:
+### Article
+
+Veloso, M.V.D., Filho, J.T.C. & Barreto, G.A. J Intell Robot Syst (2017). doi:10.1007/s10846-017-0504-y , available at http://rdcu.be/pwPf
+
+### Preliminary experiments:
 
 In order to evaluate the performance of the proposed middleware, SOM4R, we present preliminary experiments with the developed applications, built specifically for an autonomous wheeled mobile robot, by integrating voice command functionality, obstacle detection and avoidance, greeting a person, automatic battery recharge, teleoperation, text-to-speech, and a web based human machine interface (HMI).
 
@@ -16,7 +20,7 @@ In order to evaluate the performance of the proposed middleware, SOM4R, we prese
 
 ## Installation Guide
 
-This document is a guide for installing a list of prerequisites and the web services required to run the SOM4R Middleware. Each link has detailed instructions on how to install the libraries and others prerequisites. See also [Videos](https://github.com/som4r/som4r/blob/master/wiki/videos.md) and [FAQ](https://github.com/som4r/som4r/blob/master/wiki/faq.md).
+This document is a guide for installing a list of prerequisites and the web services required to run the SOM4R Middleware. Each link has detailed instructions on how to install the libraries and others prerequisites on Ubuntu Linux. See also [Videos](https://github.com/som4r/som4r/blob/master/wiki/videos.md) and [FAQ](https://github.com/som4r/som4r/blob/master/wiki/faq.md).
 
 ### Installing Prerequisites
 
