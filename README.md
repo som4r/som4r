@@ -36,7 +36,7 @@ This document is a guide for installing a list of prerequisites and the web serv
 
 ### Creating SOM4R default database
 
-Download and create a database using default script for MySQL (folder /som4r/robot/database_create_script).
+  * Download and create a database using default script for MySQL (folder /som4r/robot/database_create_script).
 
 ### Installing SOM4R Web Services
 
