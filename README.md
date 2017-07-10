@@ -34,7 +34,7 @@ This document is a guide for installing a list of prerequisites and the web serv
   * [Media Server and Video Streaming  - Red5, FFmpeg, Xuggler](https://github.com/som4r/som4r/blob/master/wiki/installred5ffmpeg.md)
 
 
-### Installing SOM4R Web Services
+### Creating SOM4R default database
 
 Download and create a database using default script for MySQL (folder /som4r/robot/database_create_script).
 
