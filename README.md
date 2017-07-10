@@ -33,15 +33,20 @@ This document is a guide for installing a list of prerequisites and the web serv
   * [Augmented Reality Libraries - ARToolKit, Gstreamer](https://github.com/som4r/som4r/blob/master/wiki/installartoolkit.md)
   * [Media Server and Video Streaming  - Red5, FFmpeg, Xuggler](https://github.com/som4r/som4r/blob/master/wiki/installred5ffmpeg.md)
 
+
+### Installing SOM4R Web Services
+
+Download and create a database using default script for MySQL (folder /som4r/robot/database_create_script).
+
 ### Installing SOM4R Web Services
 
   * Web Services and Applications
 ```
 cd ~/
-svn checkout http://som4r.googlecode.com/svn/ som4r
+git clone http://github.com/som4r/som4r
 ```
   * Autostart
     1. Edit _/etc/init.d/rc.local_ and include a call to file _robot\_autostart.sh_, located at _~/som4r/trunk/robot/config\_files/robot_
     1. Adjust path to webservices in the file _robot\_autostart.sh_
     1. Reboot operating system
-> If it is all right, after reboot has completed, the robot will say the word "robot", and "ready" one minute later.
+> If the installation was done successfully, after reboot has completed, the robot will say the word "robot" and, one minute later, the word "ready".
