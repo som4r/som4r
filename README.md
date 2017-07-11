@@ -46,7 +46,7 @@ cd ~/
 git clone https://github.com/som4r/som4r
 ```
   * Autostart
-    1. Edit _/etc/init.d/rc.local_ and include a call to file _robot\_autostart.sh_, located at _~/som4r/robot/config\_files/robot_
+    1. Edit _/etc/init.d/rc.local_ and include a call to file _robot\_autostart.sh_, located at _~/som4r/robot/config\_files/robot\__
     1. Adjust path to webservices in the file _robot\_autostart.sh_
     1. Reboot operating system
 > If the installation was done successfully, after reboot has completed, the robot will say the word "robot" and, one minute later, the word "ready".
