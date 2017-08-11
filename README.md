@@ -5,7 +5,7 @@ A middleware that shares resources (sensors, actuators and services) of one or m
 
 ### Article
 
-Veloso, M.V.D., Filho, J.T.C. & Barreto, G.A. J Intell Robot Syst (2017). doi:10.1007/s10846-017-0504-y , available at http://rdcu.be/pwPf
+Veloso, M.V.D., Filho, J.T.C. & Barreto, G.A. J Intell Robot Syst (2017). doi:10.1007/s10846-017-0504-y , available at http://rdcu.be/uF1a
 
 ### Preliminary experiments:
 
