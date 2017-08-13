@@ -7,7 +7,7 @@ A middleware that shares resources (sensors, actuators and services) of one or m
 
 Veloso, M.V.D., Filho, J.T.C. & Barreto, G.A. J Intell Robot Syst (2017). doi:10.1007/s10846-017-0504-y , available at http://rdcu.be/uF1a
 
-### Preliminary experiments:
+### Preliminary experiments - Videos:
 
 In order to evaluate the performance of the proposed middleware, SOM4R, we present preliminary experiments with the developed applications, built specifically for an autonomous wheeled mobile robot, by integrating voice command functionality, obstacle detection and avoidance, greeting a person, automatic battery recharge, teleoperation, text-to-speech, and a web based human machine interface (HMI).
 
